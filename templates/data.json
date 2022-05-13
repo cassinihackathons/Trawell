@@ -3,5 +3,124 @@
         "#j3a1": {},
         "#o123": {},
         "#k312": {}
-    }
+    },
+    "attractions": [
+        {
+            "id": 0,
+            "name": "Sukiennice",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.06152354647304",
+            "lat": "19.937466911934646",
+            "popularity": 10,
+            "score": 8
+        },
+        {
+            "id": 1,
+            "name": "Brama Floriańska",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.06481985917134",
+            "lat": "19.941520774373174",
+            "popularity": 9,
+            "score": 8
+        },
+        {
+            "id": 2,
+            "name": "Barbakan",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.06152354647304",
+            "lat": "19.937466911934646",
+            "popularity": 8,
+            "score": 9
+        },
+        {
+            "id": 3,
+            "name": "Teatr im. J.Słowackiego",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.064046806455856",
+            "lat": "19.94260461854258",
+            "popularity": 6,
+            "score": 9
+        },
+        {
+            "id": 4,
+            "name": "Kamienica Hipolitów",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.06185147788341",
+            "lat": "19.94015054638398",
+            "popularity": 5,
+            "score": 8
+        },
+        {
+            "id": 4,
+            "name": "Muzeum Książąt Czartoryskich",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.06469028379451",
+            "lat": "19.940067296545706",
+            "popularity": 8,
+            "score": 8
+        },
+        {
+            "id": 5,
+            "name": "Muzeum Książąt Czartoryskich",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.06469028379451",
+            "lat": "19.940067296545706",
+            "popularity": 8,
+            "score": 8
+        },
+        {
+            "id": 6,
+            "name": "Bazylika Franciszkanów",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.059118506434395",
+            "lat": "19.940067296545706",
+            "popularity": 5,
+            "score": 7
+        },
+        {
+            "id": 7,
+            "name": "Replika Światowida",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.05435211714121",
+            "lat": "19.938407967093315",
+            "popularity": 4,
+            "score": 9
+        },
+        {
+            "id": 7,
+            "name": "Replika Światowida",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.05435211714121",
+            "lat": "19.938407967093315",
+            "popularity": 4,
+            "score": 9
+        },
+        {
+            "id": 8,
+            "name": "Smok Wawelski",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.0529720800319",
+            "lat": "19.933637442413414",
+            "popularity": 10,
+            "score": 9
+        },
+        {
+            "id": 9,
+            "name": "Pomnik Psa Dżonka",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.051306239298434",
+            "lat": "19.934993607551043",
+            "popularity": 3,
+            "score": 10
+        },
+        {
+            "id": 10,
+            "name": "Kamień kopnięty przez króla Kraka",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.056777807835005",
+            "lat": "19.94245054829457",
+            "popularity": 3,
+            "score": 10
+        }
+    ]
 }

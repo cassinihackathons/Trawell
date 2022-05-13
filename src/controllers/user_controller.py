@@ -1,16 +1,10 @@
-from distutils.command.config import config
-import json
-from time import sleep
 from flask import jsonify, request
-from jason_gnss import jason
-from src.config.config import JasonConfig
 import uuid
 import georinex as gr
 import os
 
 class UserController:
-    def __init__(self, app, jason_config: JasonConfig) -> None:
-        self.jason_config = jason_config
+    def __init__(self, app) -> None:
 
         @app.route('/user/location', methods=['POST'])
         def location_route(): return self.location()
