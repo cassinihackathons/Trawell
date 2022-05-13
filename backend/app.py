@@ -9,7 +9,7 @@ app = Flask(__name__)
 if __name__ == "__main__":
     config = Config()
     user_controller = UserController(app)
-    user_controller = LocationController(app, config)
+    location_controller = LocationController(app, config)
     
     app.run()
     
