@@ -3,7 +3,11 @@ import shutil
 
 import yaml
 
-        
+class DeployConfig:
+    def __init__(self, node) -> None:
+        self.host = node["host"]
+        self.port = node["port"]
+    
 class Config:
     def __init__(self) -> None:
         config = None
@@ -13,3 +17,4 @@ class Config:
             config = yaml.load(config_file, Loader=yaml.FullLoader)
         
         self.radius = config["common"]["radius"]
+        self.deploy = DeployConfig(config["deploy"])
