@@ -4,9 +4,10 @@ import shutil
 
 import yaml
 
-class DatabaseConfig:
+class JasonConfig:
     def __init__(self, node) -> None:
-        self.address = node["address"]
+        self.api_key = node["api-key"]
+        self.secret_token = node["secret-token"]
         
 class Config:
     def __init__(self) -> None:
@@ -16,4 +17,4 @@ class Config:
         with open("config.yaml", "r") as config_file:
             config = yaml.load(config_file, Loader=yaml.FullLoader)
         
-        self.database = DatabaseConfig(config["database"])
+        self.jason = JasonConfig(config["jason"])
