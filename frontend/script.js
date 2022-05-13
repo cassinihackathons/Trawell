@@ -24,7 +24,7 @@ function showPosition(position) {
             type: 'Feature',
             geometry: {
                 type: 'Point',
-                coordinates: [19.886462889603695, 50.0211787264026]
+                coordinates: [position.coords.longitude, position.coords.latitude]
             }
         }]
     };
