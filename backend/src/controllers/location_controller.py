@@ -35,6 +35,6 @@ class LocationController:
         if(len(near_attractions) > 0):
             chosen_attraction = random.choice(near_attractions)
         else:
-            chosen_attraction = random.choice(attraction)
+            chosen_attraction = random.choice(attractions)
 
         return jsonify({"attraction": chosen_attraction}), 200

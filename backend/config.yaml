@@ -1,5 +1,5 @@
 deploy:
-    host: 192.168.0.206
+    host: 172.20.41.158
     port : 8080
 common:
     radius: 0.01
