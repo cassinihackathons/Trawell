@@ -5,7 +5,7 @@ dice.addEventListener('click', () => {
 });
 
 function getData() {
-    const url = `http://192.168.0.206:8080/location/attraction?long=50.061886117001634&lat=19.93860295517751`;
+    const url = `http://172.20.41.158:8080/location/attraction?long=50.061886117001634&lat=19.93860295517751`;
     fetch(url, {
             mode: 'cors',
             headers: {
