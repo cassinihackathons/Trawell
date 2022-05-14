@@ -5,115 +5,73 @@
         "#k312": {}
     },
     "attractions": [
+     
         {
-            "id": 0,
-            "name": "Sukiennice",
+            "id": 12,
+            "name": "Skałki twardowskiego",
             "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.06152354647304",
-            "lat": "19.937466911934646",
-            "image": "https://image.shutterstock.com/image-photo/beautiful-old-sukiennice-on-krakow-260nw-239889235.jpg",
-            "popularity": 10,
-            "score": 8
-        },
-        {
-            "id": 1,
-            "name": "Brama Floriańska",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.06481985917134",
-            "lat": "19.941520774373174",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/360px-St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
-            "popularity": 9,
-            "score": 8
-        },
-        {
-            "id": 2,
-            "name": "Barbakan",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.06152354647304",
-            "lat": "19.937466911934646",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Barbakan-WidokZUlicyBasztowej-POL%2C_Krak%C3%B3w.jpg/375px-Barbakan-WidokZUlicyBasztowej-POL%2C_Krak%C3%B3w.jpg",
-            "popularity": 8,
-            "score": 9
-        },
-        {
-            "id": 3,
-            "name": "Teatr im. J.Słowackiego",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.064046806455856",
-            "lat": "19.94260461854258",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TeatrIm.JuliuszaS%C5%82owackiego-WidokZPlacu%C5%9Aw.Ducha-POL%2C_Krak%C3%B3w.jpg/360px-TeatrIm.JuliuszaS%C5%82owackiego-WidokZPlacu%C5%9Aw.Ducha-POL%2C_Krak%C3%B3w.jpg",
-            "popularity": 6,
-            "score": 9
-        },
-        {
-            "id": 4,
-            "name": "Kamienica Hipolitów",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.06185147788341",
-            "lat": "19.94015054638398",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/KamienicaHipolit%C3%B3w-PlacMariacki-POL%2C_Krak%C3%B3w.jpg/306px-KamienicaHipolit%C3%B3w-PlacMariacki-POL%2C_Krak%C3%B3w.jpg",
-            "popularity": 5,
-            "score": 8
-        },
-        {
-            "id": 4,
-            "name": "Muzeum Książąt Czartoryskich",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.06469028379451",
-            "lat": "19.940067296545706",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Czartoryski_Palace%2C_17-19_%C5%9Bwi%C4%99tego_Jana_street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/360px-Czartoryski_Palace%2C_17-19_%C5%9Bwi%C4%99tego_Jana_street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg",
-            "popularity": 8,
-            "score": 8
-        },
-        {
-            "id": 5,
-            "name": "Bazylika Franciszkanów",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.059118506434395",
-            "lat": "19.940067296545706",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/St._Francis_of_Assisi_Church%2C_2_Franciszka%C5%84ska_street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/360px-St._Francis_of_Assisi_Church%2C_2_Franciszka%C5%84ska_street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg",
-            "popularity": 5,
-            "score": 7
-        },
-        {
-            "id": 6,
-            "name": "Replika Światowida",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.05435211714121",
-            "lat": "19.938407967093315",
-            "image": "https://3.bp.blogspot.com/-bHiXHpNerw8/W_1sKmLtsDI/AAAAAAAAJa0/st-ja-SdHZY_1zml0NZhZpNsu-eytK3QACLcBGAs/s1600/1.jpg",
-            "popularity": 4,
-            "score": 9
-        },
-        {
-            "id": 7,
-            "name": "Smok Wawelski",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.0529720800319",
-            "lat": "19.933637442413414",
-            "image": "https://www.podrozepoeuropie.pl/system/gallery/images/images/000/005/416/large/Smok-wawelski-Krakow.JPG?1480875273",
-            "popularity": 10,
-            "score": 9
-        },
-        {
-            "id": 8,
-            "name": "Pomnik Psa Dżonka",
-            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.051306239298434",
-            "lat": "19.934993607551043",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Dog_D%C5%BCok_Monument%2C_2018.jpg",
+            "long": "50.0",
+            "lat": "19.0",
+            "image": "https://media.discordapp.net/attachments/774371755531173888/974948678114611260/zakrzowek.jpg",
             "popularity": 3,
             "score": 10
         },
+
         {
-            "id": 9,
-            "name": "Kamień kopnięty przez króla Kraka",
+            "id": 12,
+            "name": "Lebanon quarry",
             "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
-            "long": "50.056777807835005",
-            "lat": "19.94245054829457",
-            "image": "https://www.transportpowiat.pl/zdjecia/galerie/1.3.151/big/7e38bb-diabelski_kamien_w_olszynie.jpg",
+            "long": "50.0",
+            "lat": "19.0",
+            "image": "https://media.discordapp.net/attachments/774371755531173888/974948945824464926/liban.jpg",
+            "popularity": 3,
+            "score": 10
+        },
+
+
+        {
+            "id": 13,
+            "name": "Krakow Technology Park",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.0",
+            "lat": "19.0",
+            "image": "https://media.discordapp.net/attachments/774371755531173888/974949476043227186/280028702_2133111713531382_8052369464993999624_n.jpg?width=1175&height=660",
+            "popularity": 3,
+            "score": 10
+        },
+
+        {
+            "id": 14,
+            "name": "Fort 53a - Winnica",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.0",
+            "lat": "19.0",
+            "image": "https://media.discordapp.net/attachments/774371755531173888/974949762036035644/winnica.jpg",
+            "popularity": 3,
+            "score": 10
+        },
+
+        {
+            "id": 15,
+            "name": "Borkowski Wood",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.0",
+            "lat": "19.0",
+            "image": "https://media.discordapp.net/attachments/774371755531173888/974950209719246888/unknown.png",
+            "popularity": 3,
+            "score": 10
+        },
+
+        {
+            "id": 16,
+            "name": "Restaurant 'Kto Wpuścił Skowronka'",
+            "desc": "Et sit laboris aliquip tempor pariatur culpa nulla laboris Lorem in consequat nulla. Sit aliqua cillum et tempor velit dolore minim aute proident. Laboris ut incididunt eiusmod ea. Cillum labore exercitation nostrud labore eu minim id ut commodo reprehenderit enim.",
+            "long": "50.0",
+            "lat": "19.0",
+            "image": "https://media.discordapp.net/attachments/774371755531173888/974948945824464926/liban.jpg",
             "popularity": 3,
             "score": 10
         }
+
     ]
 }
