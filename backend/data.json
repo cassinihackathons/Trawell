@@ -14,7 +14,7 @@
             "lat": "19.0",
             "image": "https://media.discordapp.net/attachments/774371755531173888/974948678114611260/zakrzowek.jpg",
             "popularity": 3,
-            "score": 10
+            "score": 8
         },
 
         {
@@ -25,7 +25,7 @@
             "lat": "19.0",
             "image": "https://media.discordapp.net/attachments/774371755531173888/974948945824464926/liban.jpg",
             "popularity": 3,
-            "score": 10
+            "score": 7
         },
 
 
@@ -48,7 +48,7 @@
             "lat": "19.0",
             "image": "https://media.discordapp.net/attachments/774371755531173888/974949762036035644/winnica.jpg",
             "popularity": 3,
-            "score": 10
+            "score": 7
         },
 
         {
@@ -59,7 +59,7 @@
             "lat": "19.0",
             "image": "https://media.discordapp.net/attachments/774371755531173888/974950209719246888/unknown.png",
             "popularity": 3,
-            "score": 10
+            "score": 9
         },
 
         {
@@ -70,7 +70,7 @@
             "lat": "19.0",
             "image": "https://media.discordapp.net/attachments/774371755531173888/974948945824464926/liban.jpg",
             "popularity": 3,
-            "score": 10
+            "score": 5
         }
 
     ]
